@@ -1,0 +1,16 @@
+C:\Users\luisf\GitHub\ProyectsC-Sharp\TheViga\TheViga\bin\Debug\TheViga.exe.config
+C:\Users\luisf\GitHub\ProyectsC-Sharp\TheViga\TheViga\bin\Debug\TheViga.exe
+C:\Users\luisf\GitHub\ProyectsC-Sharp\TheViga\TheViga\bin\Debug\TheViga.pdb
+C:\Users\luisf\GitHub\ProyectsC-Sharp\TheViga\TheViga\obj\Debug\TheViga.csproj.AssemblyReference.cache
+C:\Users\luisf\GitHub\ProyectsC-Sharp\TheViga\TheViga\obj\Debug\TheViga.csproj.SuggestedBindingRedirects.cache
+C:\Users\luisf\GitHub\ProyectsC-Sharp\TheViga\TheViga\obj\Debug\TheViga.csproj.CoreCompileInputs.cache
+C:\Users\luisf\GitHub\ProyectsC-Sharp\TheViga\TheViga\obj\Debug\TheViga.exe
+C:\Users\luisf\GitHub\ProyectsC-Sharp\TheViga\TheViga\obj\Debug\TheViga.pdb
+C:\Users\luisf\GitHub\TheViga\TheViga\TheViga\bin\Debug\TheViga.exe.config
+C:\Users\luisf\GitHub\TheViga\TheViga\TheViga\bin\Debug\TheViga.exe
+C:\Users\luisf\GitHub\TheViga\TheViga\TheViga\bin\Debug\TheViga.pdb
+C:\Users\luisf\GitHub\TheViga\TheViga\TheViga\obj\Debug\TheViga.csproj.AssemblyReference.cache
+C:\Users\luisf\GitHub\TheViga\TheViga\TheViga\obj\Debug\TheViga.csproj.SuggestedBindingRedirects.cache
+C:\Users\luisf\GitHub\TheViga\TheViga\TheViga\obj\Debug\TheViga.csproj.CoreCompileInputs.cache
+C:\Users\luisf\GitHub\TheViga\TheViga\TheViga\obj\Debug\TheViga.exe
+C:\Users\luisf\GitHub\TheViga\TheViga\TheViga\obj\Debug\TheViga.pdb
